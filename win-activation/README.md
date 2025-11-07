@@ -1,7 +1,6 @@
-# ✅ Activate Microsoft Office or Windows
-[![Author](https://img.shields.io/badge/Author-%20Artisticpy---?style=flat&logoColor=%23000000)](https://img.shields.io/badge/Author-%20Artisticpy---?style=flat&logoColor=%23000000)
+# Activate Microsoft Office or Windows
 
-## 💠 Windows User:
+## Windows User:
 
 - **Download OS & Office Link**: [https://files.rg-adguard.net/version/5f2ad9c6-e111-76e8-06d1-56d44c136bae](https://files.rg-adguard.net/version/5f2ad9c6-e111-76e8-06d1-56d44c136bae)
 
